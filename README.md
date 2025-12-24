@@ -1,0 +1,1 @@
+TentuMulti is the next stage of the Tentaizu board game where 2 players can join the game online simultaneously and get a feeling of competitiveness where they compete with each other to find the required stars before one another.
